@@ -46,7 +46,7 @@ img { padding: 0; margin: 0; }
 .web-front-author-link { display: flex; flex-direction: column; align-items: center; } 
 .web-front-author-name { font-weight: 700; font-size: 14px; letter-spacing: 1px; margin-top: 14px; padding-left: 9px; } 
 .web-front-author-date { font-size: 12.5px; margin-top: 9px; color: #8d8c8d; letter-spacing: 0.3px; font-weight: 500; display: flex; justify-content: start; align-items: center; padding-left: 5px; gap: 12px; } 
-.web-front-comments-likes { letter-spacing: 0.5px; margin-top: 16px; display: flex; margin-right: 8px; padding-top: 16.5px; font-size: 12px; gap: 27.5px; font-weight: 500; } 
+.web-front-comments-likes { letter-spacing: 0.5px; margin-top: 15px; display: flex; margin-right: 5px; padding-top: 16.5px; font-size: 12px; gap: 27.5px; font-weight: 500; transform: scaleY(1.1);} 
 .web-front-comments-likes-flex { color: #bdbdbd; display: flex; gap: 5.8px; align-items: center; } 
 .material-icons-outlined.likes { font-size: 17px; } 
 .material-icons.comments { font-size: 17px; } 
